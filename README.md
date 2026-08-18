@@ -1,6 +1,6 @@
 # VQA
 - Late Fusion (BERT + ViT), with and without LoRA
-- In 2024, I implemented a Visual Question Answering (VQA) system as part of my Visual Recognition project. Because it had a couple of issues, I wanted to refine the work. This led to VQAv2, which serves as the direct successor to that first version.
+- Back in 2024, I built a Visual Question Answering (VQA) system for my Visual Recognition project. It had a few bugs, so I wanted to clean it up. That revamp turned into VQAv2, which is the direct sequel to the original version.
 
 ## Structure
 
